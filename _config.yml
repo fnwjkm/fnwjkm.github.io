@@ -11,8 +11,8 @@ github_repo: "https://github.com/fnwjkm/fnwjkm.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Let's see"
+sidebar-avatar: /img/About-Jkunming.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
