@@ -63,7 +63,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 8fdfa120d0ae4028a8eb                            #生成的clientID
-  clientSecret: 535e146a3dfb151d94f8c06de6a2a5dba27cb75d    #生成的clientSecret
+  clientSecret: 976f4f0c495bb582fce44805a5c6d0ab56287305    #生成的clientSecret
   repo: fnwjkm.github.io   #仓库名称
   owner: fnwjkm    #github用户名
   admin: fnwjkm
